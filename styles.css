@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.holder{
+	font-size:50px;
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+}
